@@ -1,0 +1,20 @@
+body{
+  background-color: gray;
+}
+
+div{
+  background-color: blue;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+}
+
+p {
+  color: red;
+}
+
+
+span {
+  background-color: yellow;
+  color: black;
+}

@@ -1,0 +1,41 @@
+td {
+    background-color: black;
+    height: 300px;
+    width: 150px;
+    color: aqua;
+    text-align: center;
+    border: 6px solid white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.art {
+    margin: auto;
+}
+
+#one {
+    background-color:#606c38 ;
+}
+#two {
+    background-color: #283618;
+}
+#three {
+    background-color:#fefae0 ;
+}
+#four {
+    background-color: #dda15e;
+}
+#five {
+    background-color:#bc6c25 ;
+    
+}
+
+
+
+
+
+
